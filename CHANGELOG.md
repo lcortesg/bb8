@@ -11,7 +11,6 @@ The dates on this document adheres to the standard [ISO 8601](https://www.iso.or
 - D:
 
 ## [Released]()
-
 ## [1.0.0]() - 2020-01-04
 ### Added
 - :D
